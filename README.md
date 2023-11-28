@@ -1,4 +1,4 @@
-# arduino-home-automation
+# Arduino Home Automation Project
 Home automation project made with Tinkercad
 
 # Link

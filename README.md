@@ -1,6 +1,9 @@
 # arduino-home-automation
 Home automation project made with Tinkercad
 
+# Link
+https://www.tinkercad.com/things/16qiSArkm0X-projeto-domotica
+
 # Concept
 This project consists of a home automation system using two Arduinos and four different sensors, responsible for reading temperature, luminosity, presence and gas levels and send their readings to an interface, responsible for configuring triggers like switching the lights on or turning on fans and exhaustors. 
 
